@@ -1,0 +1,23 @@
+# Variables d'environnement (secrets)
+.env
+
+# Environnement virtuel Python
+venv/
+env/
+.venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
